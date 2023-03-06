@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Prajapati</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/200w.webp?cid=ecf05e478k052sj7968ntkb71fv5ima680jrcgbek2bxghvs&rid=200w.webp&ct=g">
 
 
 
